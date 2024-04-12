@@ -1,9 +1,6 @@
 # %%
 import os
 
-# Todoリストを保存するファイル名
-filename = 'todo_list1.txt'
-
 def load_todos():
     """ ToDoリストをメモリ上で初期化する """
     return []
